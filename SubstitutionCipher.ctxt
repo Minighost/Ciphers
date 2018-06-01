@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getNewKey()
+comment1.params=text\ key
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ java.lang.String)
+comment2.params=text
+comment2.target=java.lang.String\ decrypt(java.lang.String)
+comment3.params=analysis
+comment3.target=int\ getHighestIndex(int[])
+numComments=4
